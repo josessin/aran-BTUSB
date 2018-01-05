@@ -3,7 +3,7 @@ Simple serial monitor Android App to communicate with Arduino via USB or Bluetoo
 
 <h2>Soon</h2>
 
-I will soon try to upload just the library that manages the connections and makes it very simple to include in your app.
+I will soon try to upload just the library that manages the connections and makes it very simple to include in another app.
 
 The serial_bt_usb library is the one that make the connection (either via bluetooth or usb) you can check out the 
 SerialActivity class to see how to interact with the device
