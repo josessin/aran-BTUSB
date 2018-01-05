@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AranBTUSB</string>
+    <string name="usbConnected">USB connectado!</string>
+    <string name="usbDisconnected">USB desconnectado</string>
+    <string name="btnUSB">USB Serial</string>
+    <string name="btnBT">Bluetooth</string>
+</resources>
